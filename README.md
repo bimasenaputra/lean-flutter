@@ -17,7 +17,7 @@ Dengan adanya LeaN, akses pendidikan yang ditawarkan dapat memberikan kemudahan 
 
 ## 🎨 Modul-modul yang Digunakan
 ### 1. Landing Page
-![Landing Page](https://drive.google.com/file/d/1Aw4TyguHA4psBjs5aiErVeH_Fyb2MGkh/view?usp=sharing)
+![Landing Page](https://drive.google.com/uc?export=view&id=1Aw4TyguHA4psBjs5aiErVeH_Fyb2MGkh)
 Landing page berisikan profil sekolah yang memakai LeaN sebagai School Management System mereka. Profil sekolah tersebut mencakup deskripsi singkat dan hierarki sekolah. Di pojok kanan atas landing page terdapat tombol login yang akan mengarahkan pengguna ke login page.
 
 ### 2. Task Viewer
@@ -27,15 +27,15 @@ Pada page ini akan dibuat sebuah tampilan yang mana user yaitu siswa dapat melih
 Fitur khusus guru ini dapat digunakan guru untuk melakukan tiga hal yaitu melihat daftar tugas pada fitur task viewer, membuat tugas baru pada fitur create task, dan melakukan penilaian tugas murid pada fitur submission grader.
 
 ### 4. Grade Viewer
-![Grade Viewer](https://drive.google.com/file/d/18vO8vVHjztpSSoQFyeD-dgazM97lDVFR/view?usp=sharing)
+![Grade Viewer](https://drive.google.com/uc?export=view&id=18vO8vVHjztpSSoQFyeD-dgazM97lDVFR)
 Setiap murid memiliki halaman grade viewer. Grade viewer menampilkan informasi umum tentang kelas yang diikuti pengguna beserta nilainya dalam bentuk tabel. Untuk mengakses halaman ini, murid perlu mengakses halaman dashboard terlebih dahulu.
 
 ### 5. Dashboard
-![Dashboard](https://drive.google.com/file/d/1-bJhheOmmIzWBBuZRQI4Lpw1Ed7i8tdf/view?usp=sharing)
+![Dashboard](https://drive.google.com/uc?export=view&id=1-bJhheOmmIzWBBuZRQI4Lpw1Ed7i8tdf)
 Berisi announcements, Grade Viewer (untuk murid), profile masing-masing akun, kalender (murid dan guru), dan Class Navigation (untuk murid dan guru). Fitur-fitur tersebut akan dimasukkan juga ke Navigation Bar yang terdapat pada dashboard. Fitur grade viewer akan men-direct user ke page Grade Viewer, fitur Class Navigation ditampilkan pada layar dashboard dan dapat men-direct user kedalam page Class yang didalamnya terdapat Task Manager, fitur profile akan men-direct ke halaman profile akun, dan fitur kalender akan ditampilkan di layar dashboard
 
 ### 6. Login
-![Login](https://drive.google.com/file/d/1-1JyAr1mK-STocfb6X4MhqpJ7QLlsCuc/view?usp=sharing)
+![Login](https://drive.google.com/uc?export=view&id=1-1JyAr1mK-STocfb6X4MhqpJ7QLlsCuc)
 <i>Page</i> ini akan meminta <i>user</i> untuk <i>login</i> atau masuk ke dalam akun miliknya. Login user dilakukan dengan memasukan <i>username</i> dan <i>password</i> yang telah diberikan oleh admin secara manual sebelumnya. User yang akan login sebelumnya telah didaftarkan oleh admin sebagai guru atau murid sehingga role dari website ini terbagi menjadi dua yaitu guru dan murid. Tampilan website untuk role guru dan murid juga terdapat perbedaan.
 
 <br></br>
